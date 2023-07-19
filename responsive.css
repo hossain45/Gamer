@@ -53,6 +53,13 @@
     .online-games {
         gap: 15px;
     }
+    .og-img-div:active .og-img {
+        opacity: 0.3;
+    }
+      
+    .og-img-div:active .hover-items {
+        opacity: 1;
+    }
 }
 
 /* responsiveness for tab  */
@@ -114,5 +121,11 @@
     .og-img-container figcaption {
         max-width: 280px;
         padding-top: 20px;
+    }
+    .og-img-div:active .og-img {
+        opacity: 0.3;
+    }   
+    .og-img-div:active .hover-items {
+        opacity: 1;
     }
 }
