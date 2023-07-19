@@ -8,7 +8,7 @@ MAIN PART
 -banner (upto we are gamer) /icon optional (under goat) ---> DONE
 -online games ---> DONE
 -play instantly or play games (one optional) --- I'll do play instantly ---> DONE
--games(button) [hover effect like arcade games]
+-games(button) [hover effect like arcade games] --> DONE
 -footer (clickable)
 
 *career section optional 
@@ -17,6 +17,6 @@ MAIN PART
 BONUS PART
 
 -favicon 
--video overlay (hover on online games)
--mobile responsive (mobile large- 425px)
--tablet responsive (tablet -768px)
+-video overlay (hover on online games) ---> DONE
+-mobile responsive (mobile large- 425px) ---> DONE
+-tablet responsive (tablet -768px) ---> DONE
