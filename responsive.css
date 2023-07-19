@@ -67,15 +67,38 @@
     }
     .pi-img .pi-bottom-img {
         width: 100%;
-        height: 50vh;
+        height: 40vh;
         margin: 5% 5%;
         border: 2px solid tomato;
         /* max-width: 500px; */
     }
     .pi-top-img {
         width: 50%;
+        height: 20vh;
         margin: 0 5%;
         margin-top: 5%;
+    }
+    .games {
+        gap: 10px;
+        margin-top: 5%;
+        padding: 5% 5%;
+    }
+    .games-btn {
+        max-width: 120px;
+        height: 45px;
+        gap: 5px;
+        padding-top: 2px;
+        padding: 0 2px;
+        font-size: .50rem;
+    }
+    .games-btn img {
+        width: 30px;
+        height: 30px;
+    }
+    .games-btn:active {
+        border: 2px solid #FF42A5;
+        color: #FF42A5;
+        box-shadow: 2px 2px 10px #FF42A5;
     }
 }
 
@@ -161,5 +184,27 @@
         width: 50%;
         margin: 0 5%;
         margin-top: 5%;
+    }
+    .games {
+        gap: 10px;
+        margin-top: 15%;
+        padding: 10% 5%;
+    }
+    .games-btn {
+        max-width: 220px;
+        height: 65px;
+        gap: 15px;
+        padding-top: 20px;
+        padding: 0 15px;
+        font-size: 1rem;
+    }
+    .games-btn img {
+        width: 45px;
+        height: 45px;
+    }
+    .games-btn:active {
+        border: 2px solid #FF42A5;
+        color: #FF42A5;
+        box-shadow: 2px 2px 10px #FF42A5;
     }
 }

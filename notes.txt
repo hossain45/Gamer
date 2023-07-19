@@ -7,7 +7,7 @@ MAIN PART
 -navbar section ---> DONE
 -banner (upto we are gamer) /icon optional (under goat) ---> DONE
 -online games ---> DONE
--play instantly or play games (one optional) --- I'll do play instantly 
+-play instantly or play games (one optional) --- I'll do play instantly ---> DONE
 -games(button) [hover effect like arcade games]
 -footer (clickable)
 
