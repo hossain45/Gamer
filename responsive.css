@@ -43,6 +43,16 @@
         width: 100%;
         margin: 5% 5%;
     }
+    .og-vdo {        
+        justify-content: center;
+        padding-top: 30px;
+    }
+    .online-games>h2 {
+        font-size: 1.50rem;
+    }
+    .online-games {
+        gap: 15px;
+    }
 }
 
 /* responsiveness for tab  */
@@ -90,5 +100,19 @@
         width: 100%;
         height: 100vh;
         margin: 5% 5%;
+    }
+    .online-games {
+        gap: 10px;
+    }
+    .og-vdo {        
+        justify-content: space-between;
+        padding-top: 30px;
+    }
+    .og-img-container img {
+        max-width: 280px;
+    }
+    .og-img-container figcaption {
+        max-width: 280px;
+        padding-top: 20px;
     }
 }

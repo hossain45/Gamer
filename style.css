@@ -96,4 +96,72 @@ header {
     width: auto;
     margin-right: 10%;
 }
+/* online games section style */
+.online-games {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 8% 10%;
+    gap: 30px;
+}
+.og-title-color {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.og-vdo {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.og-img-container img {
+    max-width: 342px;
+}
+.og-img-container figcaption {
+    max-width: 342px;
+    padding-top: 20px;
+}
+.og-img-div {
+    position: relative;
+    /* width: 50%; */
+  }
+  
+.og-img {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .hover-items {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 1rem;
+  }
+  .og-img-div:hover .og-img {
+    opacity: 0.3;
+  }
+  
+  .og-img-div:hover .hover-items {
+    opacity: 1;
+  }
 
