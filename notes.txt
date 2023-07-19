@@ -9,14 +9,14 @@ MAIN PART
 -online games ---> DONE
 -play instantly or play games (one optional) --- I'll do play instantly ---> DONE
 -games(button) [hover effect like arcade games] --> DONE
--footer (clickable)
+-footer (clickable) ---> DONE
 
 *career section optional 
 *we are gamer optional
 
 BONUS PART
 
--favicon 
+-favicon --->DONE
 -video overlay (hover on online games) ---> DONE
 -mobile responsive (mobile large- 425px) ---> DONE
 -tablet responsive (tablet -768px) ---> DONE

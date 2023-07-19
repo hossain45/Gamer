@@ -26,6 +26,7 @@
 .btn {
     padding: 15px 30px;
     border-radius: 4rem;
+    border: none;
     background: #ff42a5;
     color: #FFF;
     font-size: 1.25rem;
@@ -93,11 +94,13 @@ header {
 }
 .g-r-btn {
     background: #4EC5F7;
+    border: none;
 }
 .home-btn {
     display: flex;
     gap: 20px;
     padding-top: 40px;
+    border: none;
 }
 .home-img {
     width: auto;
